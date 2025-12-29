@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "YT Music Segment Looper",
+  "version": "1.0.0",
+  "description": "Loop any segment of a song on YouTube Music with visual markers",
+  "author": "Your Name",
+
+  "icons": {
+    "16": "./icons/icon16.png",
+    "48": "./icons/icon48.png",
+    "128": "./icons/icon128.png"
+  },
+
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+
+  "host_permissions": [
+    "https://music.youtube.com/*"
+  ],
+
+  "optional_host_permissions": [],
+
+  "content_scripts": [
+    {
+      "matches": ["https://music.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+
+  "web_accessible_resources": [
+    {
+      "resources": ["icons/*"],
+      "matches": ["https://music.youtube.com/*"]
+    }
+  ],
+
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Toggle YT Music Loop Controller"
+  },
+
+  "background": {
+    "service_worker": "background.js"
+  }
+}
