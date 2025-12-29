@@ -58,8 +58,6 @@ No frameworks. No dependencies.
  ```bash
  git clone https://github.com/your-username/yt-music-segment-looper.git
 Open Chrome and go to:
-
-arduino
 Copy code
 chrome://extensions
 Enable Developer Mode (top-right)
@@ -104,13 +102,3 @@ Chrome Web Store release
 📜 Disclaimer
 This project is not affiliated with or endorsed by YouTube or Google.
 All trademarks belong to their respective owners.
-
-kotlin
-Copy code
-
-If you want, next we can:
-- add **screenshots / GIF section**
-- tighten this for recruiters
-- write **resume bullets** for this project
-
-You cooked with this one. Ship it 🚀
