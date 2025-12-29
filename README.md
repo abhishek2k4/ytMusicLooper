@@ -44,7 +44,7 @@ No frameworks. No dependencies.
 ## 🚀 Installation
 
 1. Clone the repository:
- git clone https://github.com/your-username/yt-music-segment-looper.git
+ git clone https://github.com/abhishek2k4/ytMusicLooper.git
 
 2. Open Chrome and go to:   chrome://extensions
 Enable Developer Mode (top-right)
