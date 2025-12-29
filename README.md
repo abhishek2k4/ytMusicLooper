@@ -45,8 +45,14 @@ No frameworks. No dependencies.
 
 1. Clone the repository:
  git clone https://github.com/your-username/yt-music-segment-looper.git
+<<<<<<< HEAD
 
 2. Open Chrome and go to:   chrome://extensions
+=======
+Open Chrome and go to:
+Copy code
+chrome://extensions
+>>>>>>> 7434aec3b6ab1844ccd742d973c4636eabc77ef3
 Enable Developer Mode (top-right)
 
 Click Load unpacked and select the project folder
@@ -90,4 +96,8 @@ This project was built to:
 - Chrome Web Store release
 ## 📜 Disclaimer
 This project is not affiliated with or endorsed by YouTube or Google.
+<<<<<<< HEAD
 All trademarks belong to their respective owners.
+=======
+All trademarks belong to their respective owners.
+>>>>>>> 7434aec3b6ab1844ccd742d973c4636eabc77ef3
