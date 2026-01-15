@@ -53,9 +53,9 @@ No frameworks. No dependencies.
 2. Open Chrome and go to:   chrome://extensions
 Enable Developer Mode (top-right)
 
-Click Load unpacked and select the project folder
+3. Click Load unpacked and select the project folder
 
-Open music.youtube.com, play a song, and start looping 🎶
+4. Open music.youtube.com, play a song, and start looping 🎶
 
 ## 📌 Usage
 
