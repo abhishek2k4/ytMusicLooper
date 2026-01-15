@@ -50,7 +50,7 @@ No frameworks. No dependencies.
  Download this repo 
 
 
-3. Open Chrome and go to:   chrome://extensions
+2. Open Chrome and go to:   chrome://extensions
 Enable Developer Mode (top-right)
 
 Click Load unpacked and select the project folder
