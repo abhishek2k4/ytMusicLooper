@@ -46,7 +46,11 @@ No frameworks. No dependencies.
 1. Clone the repository:
  git clone https://github.com/abhishek2k4/ytMusicLooper.git
 
-2. Open Chrome and go to:   chrome://extensions
+(OR)
+ Download this repo 
+
+
+3. Open Chrome and go to:   chrome://extensions
 Enable Developer Mode (top-right)
 
 Click Load unpacked and select the project folder
